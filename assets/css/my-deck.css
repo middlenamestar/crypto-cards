@@ -73,6 +73,10 @@ body{
     cursor: default;
 }
 
+h6{
+    font-size: 17px;
+}
+
 /* #mobileSearch {
     display: none;
 } */
